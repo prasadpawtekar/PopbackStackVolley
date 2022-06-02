@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentBackStackVolley</string>
+    <string name="btn_categories">Categories</string>
+    <string name="btn_subcategories">Sub Categories</string>
+</resources>
